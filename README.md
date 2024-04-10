@@ -35,6 +35,3 @@ To get started with the project, follow these steps:
 
 Contributions to the project are welcomed and encouraged. Whether it's bug fixes, feature enhancements, or general improvements, feel free to submit pull requests to help enhance the functionality and usability of the application. 🤝
 
-## License:
-
-This project is licensed under the [MIT License](LICENSE), allowing for open collaboration and distribution.
